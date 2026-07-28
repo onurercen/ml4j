@@ -7762,3 +7762,5 @@ WARNING: Unmatched cancel notification for request id 6066
 2026.07.28 18:15:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/nn/Linear.java. Using fallback presentation compiler.
 2026.07.28 18:15:44 WARN  no build target for: /Users/onurercen/Desktop/ml4j/nn/Linear.java
 2026.07.28 18:15:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/nn/Linear.java. Using fallback presentation compiler.
+2026.07.28 20:11:31 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\ercen\OneDrive\Desktop\ml4j' for client Visual Studio Code 1.127.0.
+2026.07.28 20:11:31 INFO  Memory monitor started
