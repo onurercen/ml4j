@@ -7764,3 +7764,1534 @@ WARNING: Unmatched cancel notification for request id 6066
 2026.07.28 18:15:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/nn/Linear.java. Using fallback presentation compiler.
 2026.07.28 20:11:31 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\ercen\OneDrive\Desktop\ml4j' for client Visual Studio Code 1.127.0.
 2026.07.28 20:11:31 INFO  Memory monitor started
+2026.07.28 20:11:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.28 20:11:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+Tem 28, 2026 8:11:37 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Tem 28, 2026 8:11:37 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Tem 28, 2026 8:11:37 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.07.28 20:11:38 INFO  Attempting to connect to the build server...
+2026.07.28 20:11:38 INFO  No running Bloop server found, starting one.
+2026.07.28 20:11:49 INFO  Starting compilation server
+2026.07.28 20:11:51 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\bsp.trace.json or C:\Users\ercen\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.07.28 20:11:51 ERROR C:\opt\homebrew\Cellar\openjdk@21\21.0.11\libexec\openjdk.jdk\Contents\Home release file missing JAVA_VERSION property - using Bloop's JVM version 17.0.12
+2026.07.28 20:11:51 ERROR C:\opt\homebrew\Cellar\openjdk@21\21.0.11\libexec\openjdk.jdk\Contents\Home release file missing JAVA_VERSION property - using Bloop's JVM version 17.0.12
+2026.07.28 20:11:52 INFO  time: Connected to build server in 14s
+2026.07.28 20:11:51 INFO  Connected to Build server: Bloop v2.1.1
+2026.07.28 20:11:52 INFO  Scala targets not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: java.nio.file.AccessDeniedException: C:\Users\onurercen
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:521)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:700)
+	at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:807)
+	at java.base/java.nio.file.Files.createDirectories(Files.java:793)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2(ClientInfo.scala:211)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2$adapted(ClientInfo.scala:198)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at bloop.data.ClientInfo$BspClientInfo.getUniqueClassesDirFor(ClientInfo.scala:198)
+	at bloop.data.Project.$anonfun$fullClasspath$1(Project.scala:129)
+	at bloop.data.Project.$anonfun$fullClasspath$1$adapted(Project.scala:127)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at bloop.data.Project.fullClasspath(Project.scala:127)
+	at bloop.data.Project.fullClasspath(Project.scala:140)
+	at bloop.bsp.BloopBspServices.getClasspath(BloopBspServices.scala:1509)
+	at bloop.bsp.BloopBspServices.$anonfun$scalacOptions$1(BloopBspServices.scala:1529)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.generic.Growable.$plus$plus$eq(Growable.scala:62)
+	at scala.collection.generic.Growable.$plus$plus$eq$(Growable.scala:53)
+	at scala.collection.mutable.ListBuffer.$plus$plus$eq(ListBuffer.scala:184)
+	at scala.collection.mutable.ListBuffer.$plus$plus$eq(ListBuffer.scala:47)
+	at scala.collection.TraversableOnce.to(TraversableOnce.scala:366)
+	at scala.collection.TraversableOnce.to$(TraversableOnce.scala:364)
+	at scala.collection.AbstractIterator.to(Iterator.scala:1431)
+	at scala.collection.TraversableOnce.toList(TraversableOnce.scala:350)
+	at scala.collection.TraversableOnce.toList$(TraversableOnce.scala:350)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1431)
+	at bloop.bsp.BloopBspServices.scalacOptions$1(BloopBspServices.scala:1527)
+	at bloop.bsp.BloopBspServices.$anonfun$scalacOptions$3(BloopBspServices.scala:1548)
+	at bloop.bsp.BloopBspServices.$anonfun$ifInitialized$4(BloopBspServices.scala:383)
+	at bloop.task.Task.$anonfun$runAsync$8(Task.scala:268)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:170)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.run(TaskCreate.scala:252)
+	at monix.execution.internal.Trampoline.monix$execution$internal$Trampoline$$immediateLoop(Trampoline.scala:66)
+	at monix.execution.internal.Trampoline.startLoop(Trampoline.scala:32)
+	at monix.execution.schedulers.TrampolineExecutionContext$JVMOptimalTrampoline.startLoop(TrampolineExecutionContext.scala:132)
+	at monix.execution.internal.Trampoline.execute(Trampoline.scala:40)
+	at monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:57)
+	at monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+	at monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+	at monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:31)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.startExecution(TaskCreate.scala:236)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.tryOnSuccess(TaskCreate.scala:202)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.onSuccess(TaskCreate.scala:195)
+	at bloop.task.Task$.result$2(Task.scala:465)
+	at bloop.task.Task$.$anonfun$parSequenceUnordered$3(Task.scala:475)
+	at bloop.task.Task$.$anonfun$parSequenceUnordered$3$adapted(Task.scala:473)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:74)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2026.07.28 20:11:52 INFO  Java targets not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: java.nio.file.AccessDeniedException: C:\Users\onurercen
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:521)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:700)
+	at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:807)
+	at java.base/java.nio.file.Files.createDirectories(Files.java:793)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2(ClientInfo.scala:211)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2$adapted(ClientInfo.scala:198)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at bloop.data.ClientInfo$BspClientInfo.getUniqueClassesDirFor(ClientInfo.scala:198)
+	at bloop.data.Project.$anonfun$fullClasspath$1(Project.scala:129)
+	at bloop.data.Project.$anonfun$fullClasspath$1$adapted(Project.scala:127)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at bloop.data.Project.fullClasspath(Project.scala:127)
+	at bloop.data.Project.fullClasspath(Project.scala:140)
+	at bloop.bsp.BloopBspServices.getClasspath(BloopBspServices.scala:1509)
+	at bloop.bsp.BloopBspServices.$anonfun$javacOptions$1(BloopBspServices.scala:1563)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.generic.Growable.$plus$plus$eq(Growable.scala:62)
+	at scala.collection.generic.Growable.$plus$plus$eq$(Growable.scala:53)
+	at scala.collection.mutable.ListBuffer.$plus$plus$eq(ListBuffer.scala:184)
+	at scala.collection.mutable.ListBuffer.$plus$plus$eq(ListBuffer.scala:47)
+	at scala.collection.TraversableOnce.to(TraversableOnce.scala:366)
+	at scala.collection.TraversableOnce.to$(TraversableOnce.scala:364)
+	at scala.collection.AbstractIterator.to(Iterator.scala:1431)
+	at scala.collection.TraversableOnce.toList(TraversableOnce.scala:350)
+	at scala.collection.TraversableOnce.toList$(TraversableOnce.scala:350)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1431)
+	at bloop.bsp.BloopBspServices.javacOptions$1(BloopBspServices.scala:1561)
+	at bloop.bsp.BloopBspServices.$anonfun$javacOptions$3(BloopBspServices.scala:1582)
+	at bloop.bsp.BloopBspServices.$anonfun$ifInitialized$4(BloopBspServices.scala:383)
+	at bloop.task.Task.$anonfun$runAsync$8(Task.scala:268)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:170)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.run(TaskCreate.scala:252)
+	at monix.execution.internal.Trampoline.monix$execution$internal$Trampoline$$immediateLoop(Trampoline.scala:66)
+	at monix.execution.internal.Trampoline.startLoop(Trampoline.scala:32)
+	at monix.execution.schedulers.TrampolineExecutionContext$JVMOptimalTrampoline.startLoop(TrampolineExecutionContext.scala:132)
+	at monix.execution.internal.Trampoline.execute(Trampoline.scala:40)
+	at monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:57)
+	at monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+	at monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+	at monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:31)
+	at monix.execution.schedulers.StartAsyncBatchRunnable.run(StartAsyncBatchRunnable.scala:42)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2026.07.28 20:11:52 INFO  time: Imported build in 0.15s
+2026.07.28 20:12:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.28 20:12:12 INFO  time: indexed workspace in 20s
+2026.07.28 20:12:12 INFO  Scala test classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: java.nio.file.AccessDeniedException: C:\Users\onurercen
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:521)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:700)
+	at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:807)
+	at java.base/java.nio.file.Files.createDirectories(Files.java:793)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2(ClientInfo.scala:211)
+	at bloop.data.ClientInfo$BspClientInfo.$anonfun$getUniqueClassesDirFor$2$adapted(ClientInfo.scala:198)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at bloop.data.ClientInfo$BspClientInfo.getUniqueClassesDirFor(ClientInfo.scala:198)
+	at bloop.data.Project.$anonfun$fullClasspath$1(Project.scala:129)
+	at bloop.data.Project.$anonfun$fullClasspath$1$adapted(Project.scala:127)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at bloop.data.Project.fullClasspath(Project.scala:127)
+	at bloop.data.Project.fullRuntimeClasspath(Project.scala:151)
+	at bloop.engine.tasks.TestTask$.discoverTestFrameworks(TestTask.scala:269)
+	at bloop.engine.tasks.TestTask$.findTestNamesWithFramework(TestTask.scala:505)
+	at bloop.bsp.BloopBspServices.$anonfun$scalaTestClasses$3(BloopBspServices.scala:713)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at bloop.bsp.BloopBspServices.$anonfun$scalaTestClasses$1(BloopBspServices.scala:711)
+	at bloop.bsp.BloopBspServices.$anonfun$ifInitialized$4(BloopBspServices.scala:383)
+	at bloop.task.Task.$anonfun$runAsync$8(Task.scala:268)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:170)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.run(TaskCreate.scala:252)
+	at monix.execution.internal.Trampoline.monix$execution$internal$Trampoline$$immediateLoop(Trampoline.scala:66)
+	at monix.execution.internal.Trampoline.startLoop(Trampoline.scala:32)
+	at monix.execution.schedulers.TrampolineExecutionContext$JVMOptimalTrampoline.startLoop(TrampolineExecutionContext.scala:132)
+	at monix.execution.internal.Trampoline.execute(Trampoline.scala:40)
+	at monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:57)
+	at monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+	at monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+	at monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:31)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.startExecution(TaskCreate.scala:236)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.tryOnSuccess(TaskCreate.scala:202)
+	at monix.eval.internal.TaskCreate$CallbackForCreate.onSuccess(TaskCreate.scala:195)
+	at bloop.task.Task$.result$2(Task.scala:465)
+	at bloop.task.Task$.$anonfun$parSequenceUnordered$3(Task.scala:475)
+	at bloop.task.Task$.$anonfun$parSequenceUnordered$3$adapted(Task.scala:473)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:74)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2026.07.28 20:12:12 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:12:13 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:12:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:12:23 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:12:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:12:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:12:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:12:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:12:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:29 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java
+2026.07.28 20:12:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:12:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:12:34 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:12:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:36 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java
+2026.07.28 20:12:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:12:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:39 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java
+2026.07.28 20:12:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:12:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:24 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:24 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:14:28 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:14:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:24 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:25 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:15:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:31 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:32 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:32 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:15:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:53 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:15:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:53 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:53 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:15:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:55 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:15:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:15:56 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:15:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:10 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:15 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:32 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:33 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:34 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:38 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:38 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:16:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:40 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+Tem 28, 2026 8:16:46 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 406
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:56 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:56 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:56 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:16:56 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:00 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:16:59 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+Tem 28, 2026 8:17:13 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 509
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:18 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:24 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:17:24 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:24 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:24 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:28 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:38 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:38 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:17:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:39 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:42 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:17:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:17:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:49 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:17:52 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:52 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/ReLU.java. Output:
+
+2026.07.28 20:17:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:53 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:17:54 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:17:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:18:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:18:10 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:18:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:19:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:20:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:29 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:20:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:20:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:42 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:20:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:43 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:20:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:46 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:20:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:20:47 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:20:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:16 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:17 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:21:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:19 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:21:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+Tem 28, 2026 8:21:20 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 807
+2026.07.28 20:21:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:21:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:23:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:23:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:23:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:23:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:23:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:24:04 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:24:06 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:24:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:24:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:25:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:44 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:50 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:50 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:51 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:51 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:51 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:51 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:25:55 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:25:55 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:34 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:27:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:27:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:27:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:27:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:27:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+Tem 28, 2026 8:29:17 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 957
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:18 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:21 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:21 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:21 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:46 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:29:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:46 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:47 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:29:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:47 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:29:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:57 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:29:59 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:29:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:00 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:01 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:02 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:06 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:07 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+Tem 28, 2026 8:30:10 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1168
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:11 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:12 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:13 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:29 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:29 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:36 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:30:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:37 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:30:41 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:30:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+Tem 28, 2026 8:31:30 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1291
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:31 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:31 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:33 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:35 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:37 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:37 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:38 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:40 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:43 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:45 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:46 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:45 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:31:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:31:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:32:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:32:36 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:35:04 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:38:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:38:44 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:38:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:38:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:38:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:38:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:39:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:43 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:39:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:43 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:44 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java
+2026.07.28 20:39:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:44 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Dropout.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:39:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sigmoid.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:39:47 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java
+2026.07.28 20:39:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:39:46 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:39:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:39:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Softmax.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:32 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:33 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  Created report: Optional[file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Linear.java]
+2026.07.28 20:40:42 INFO  empty definition using pc, found symbol in pc: tensor/Tensor# (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-40-42-660.md")
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+Tem 28, 2026 8:40:42 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1463
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:40:42 INFO  empty definition using pc, found symbol in pc: tensor/Tensor# (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-40-42-660.md")
+2026.07.28 20:40:42 INFO  empty definition using pc, found symbol in pc: tensor/Tensor# (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-40-42-660.md")
+2026.07.28 20:40:42 INFO  Created report: Optional[file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Linear.java]
+2026.07.28 20:40:42 INFO  empty definition using pc, found symbol in pc: tensor/Tensor#random(). (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-40-42-829.md")
+2026.07.28 20:40:42 INFO  Created report: Optional[file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Linear.java]
+2026.07.28 20:40:42 INFO  empty definition using pc, found symbol in pc: tensor/Tensor#zeros(). (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-40-42-838.md")
+2026.07.28 20:43:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:43:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:05 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java
+2026.07.28 20:43:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:43:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java
+2026.07.28 20:43:58 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/examples/LinearTest.java. Output:
+
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:58 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/examples/LinearTest.java. Output:
+
+2026.07.28 20:43:58 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:43:59 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java
+2026.07.28 20:43:59 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:01 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:03 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:02 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:03 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java
+2026.07.28 20:44:03 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:05 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+Tem 28, 2026 8:44:06 ÖS org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin -1, end 558, length 563
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin -1, end 558, length 563
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin -1, end 558, length 563
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4608)
+	at java.base/java.lang.String.substring(String.java:2711)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaDefinitionProvider.$anonfun$definitionImpl$5(JavaDefinitionProvider.scala:122)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionImpl(JavaDefinitionProvider.scala:70)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionOffset(JavaDefinitionProvider.scala:53)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definition(JavaDefinitionProvider.scala:31)
+	at scala.meta.internal.pc.JavaPresentationCompiler.definition(JavaPresentationCompiler.scala:98)
+	at scala.meta.internal.metals.Compilers.$anonfun$definition$1(Compilers.scala:1230)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1221)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1182)
+	at scala.meta.internal.metals.DefinitionProvider.fromCompiler$1(DefinitionProvider.scala:97)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$10(DefinitionProvider.scala:146)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:153)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	... 3 more
+
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:06 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/examples/LinearTest.java. Output:
+
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:10 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java
+2026.07.28 20:44:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java
+2026.07.28 20:44:27 INFO  no build target found for c:\Users\ercen\OneDrive\Desktop\ml4j\examples\LinearTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:28 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java
+2026.07.28 20:44:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:27 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:30 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java
+2026.07.28 20:44:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:30 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java
+2026.07.28 20:44:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:30 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:30 INFO  Created report: Optional[file:///C:/Users/ercen/OneDrive/Desktop/ml4j/examples/NetworkTest.java]
+2026.07.28 20:44:30 INFO  empty definition using pc, found symbol in pc: nn/Sequential# (full report at: "C:\Users\ercen\OneDrive\Desktop\ml4j\.metals\.reports\metals-full\2026-07-28\r_empty-definition_20-44-30-340.md")
+2026.07.28 20:44:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:44:54 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:19 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java
+2026.07.28 20:46:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:19 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:20 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\ReLU.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:46:23 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:46:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:46:22 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:46:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:46:23 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Linear.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Tensor.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:25 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java
+2026.07.28 20:46:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:26 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\Shape.java. Using fallback presentation compiler.
+2026.07.28 20:46:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:46:28 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java
+2026.07.28 20:46:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:46:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:46:29 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:46:28 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:46:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:34 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java
+2026.07.28 20:46:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:34 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:48 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:46:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\examples\NetworkTest.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:45 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:47 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:47:49 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:18 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:48:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:18 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:48:18 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:48:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\tensor\TensorOps.java. Using fallback presentation compiler.
+2026.07.28 20:48:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:39 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java
+2026.07.28 20:48:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:39 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:40 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:41 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:48:42 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java
+2026.07.28 20:48:42 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Module.java. Using fallback presentation compiler.
+2026.07.28 20:49:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:07 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:07 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:08 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:09 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:10 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:11 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:11 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:12 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:13 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:14 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:14 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:15 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:49:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:15 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:16 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:16 WARN  Running javac-semanticdb failed for file:///C:/Users/ercen/OneDrive/Desktop/ml4j/nn/Sequential.java. Output:
+
+2026.07.28 20:49:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:16 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:17 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+2026.07.28 20:49:17 WARN  no build target for: C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java
+2026.07.28 20:49:17 INFO  no build target found for C:\Users\ercen\OneDrive\Desktop\ml4j\nn\Sequential.java. Using fallback presentation compiler.
+Tem 28, 2026 8:53:32 ÖS org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
