@@ -1,0 +1,1151 @@
+2026.07.28 09:39:46 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.28 09:39:46 WARN  no build tool detected in workspace '/Users/onurercen/Desktop/ml4j'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.28 09:39:46 WARN  Build server is not auto-connectable.
+2026.07.28 09:39:46 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:39:46 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+Tem 28, 2026 9:39:52 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Tem 28, 2026 9:39:52 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.28 09:41:04 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:41:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:08 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:10 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:11 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:15 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:15 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:22 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:27 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:26 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:41:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:41:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:32 WARN  no build target for: /Users/onurercen/Desktop/ml4j/TensorOps.java
+2026.07.28 09:44:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:32 WARN  no build target for: /Users/onurercen/Desktop/ml4j/TensorOps.java
+2026.07.28 09:44:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:44:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:41 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:44:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Shape.java
+2026.07.28 09:44:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Shape.java. Output:
+
+2026.07.28 09:44:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:44:58 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Shape.java. Output:
+
+2026.07.28 09:45:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:45:01 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:45:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:45:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:45:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java
+2026.07.28 09:45:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Output:
+
+2026.07.28 09:45:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:45:11 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Output:
+
+2026.07.28 09:45:39 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java
+2026.07.28 09:45:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/TensorOps.java. Using fallback presentation compiler.
+2026.07.28 09:46:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:46:36 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:46:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:46:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:46:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:46:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:00 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:03 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:04 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:05 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:05 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:08 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:11 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:11 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:11 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:12 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:16 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:18 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:23 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:26 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:27 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:31 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:33 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:43 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:59 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:47:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:47:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:00 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:48:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:03 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:48:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:09 WARN  Running javac-semanticdb failed for file:///Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Output:
+
+2026.07.28 09:48:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:15 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:48:15 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:48:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:49:25 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Shape.java
+2026.07.28 09:49:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:49:26 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Shape.java
+2026.07.28 09:49:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Shape.java. Using fallback presentation compiler.
+2026.07.28 09:49:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:49:27 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:49:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+Tem 28, 2026 9:50:57 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.28 09:50:59 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:50:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:50:59 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:05 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:51:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+Tem 28, 2026 9:51:17 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Tem 28, 2026 9:51:21 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.28 09:51:23 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:51:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:43 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:45 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:51:45 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:29 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:37 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:44 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:45 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:48 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:49 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:50 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:51 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:52 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:53 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:55 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:54 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:56 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:57 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:52:58 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:00 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:01 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:02 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:03 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:04 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:05 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:06 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:07 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:08 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:53:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:08 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:09 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:10 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:17 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:20 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:22 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:25 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:28 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:30 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:31 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:32 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:33 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:34 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:35 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:36 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:38 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:39 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:41 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:40 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:53:42 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:13 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:14 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:16 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:18 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:19 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:21 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:23 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:24 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:54:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:24 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:54:24 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:26 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:27 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:54:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:27 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:54:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+2026.07.28 09:54:27 WARN  no build target for: /Users/onurercen/Desktop/ml4j/tensor/Tensor.java
+2026.07.28 09:54:27 INFO  no build target found for /Users/onurercen/Desktop/ml4j/tensor/Tensor.java. Using fallback presentation compiler.
+Tem 28, 2026 9:56:09 ÖÖ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
