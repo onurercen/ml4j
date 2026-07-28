@@ -1,0 +1,41 @@
+ml4j/
+│
+├── tensor/
+│   ├── Tensor.java
+│   ├── Shape.java
+│   └── TensorOps.java
+│
+├── autograd/
+│   ├── Node.java
+│   ├── Graph.java
+│   └── Backward.java
+│
+├── nn/
+│   ├── Module.java
+│   ├── Sequential.java
+│   ├── Linear.java
+│   ├── ReLU.java
+│   ├── Sigmoid.java
+│   ├── Softmax.java
+│   └── Dropout.java
+│
+├── loss/
+│   ├── MSELoss.java
+│   └── CrossEntropyLoss.java
+│
+├── optim/
+│   ├── Optimizer.java
+│   ├── SGD.java
+│   └── Adam.java
+│
+├── data/
+│   ├── Dataset.java
+│   ├── DataLoader.java
+│   └── MNISTLoader.java
+│
+├── engine/
+│   ├── Trainer.java
+│   └── Evaluator.java
+│
+└── examples/
+    └── MnistExample.java

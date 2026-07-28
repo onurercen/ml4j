@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/tensor/Tensor.java:_empty_/Array#length.
+file://<WORKSPACE>/tensor/Tensor.java
+empty definition using pc, found symbol in pc: _empty_/Array#length.
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 3639
+uri: file://<WORKSPACE>/tensor/Tensor.java
+text:
+```scala
 package tensor;
 public class Tensor {
     
@@ -5,14 +16,6 @@ public class Tensor {
     /* data array */
     private int[] shape;
     /* shape array */
-
-    public double[] getData() {
-        return data;
-    }
-
-    public int[] getShape() {
-        return shape;
-    }
 
     public Tensor(double[] data, int[] shape) {
         this.data = data;
@@ -104,7 +107,7 @@ public class Tensor {
         for(int dim : newShape){
             newSize *= dim;
         }
-        if(newSize != this.data.length){
+        if(newSize != this.data.length@@){
             throw new IllegalArgumentException("Total size of new shape must be the same as the original tensor.");
         }
         return new Tensor(this.data, newShape);
@@ -113,3 +116,9 @@ public class Tensor {
 
 
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Array#length.
