@@ -38,4 +38,6 @@ ml4j/
 │   └── Evaluator.java
 │
 └── examples/
-    └── MnistExample.java
+   └── MnistExample.java
+│
+├── pom.xml
